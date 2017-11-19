@@ -60,7 +60,9 @@ nav a hover{
   text-decoration: underline;
   color: #0056b3;
 }
-#boom{}
+#boom a:hover{
+  text-decoration: underline;
+}
 
 footer{
   border-top: 1px solid #ccc;
