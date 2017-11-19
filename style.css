@@ -78,10 +78,12 @@ div.questions a.btn{
 div.questions a.btn:hover{
   background-color: #007bff;
   border-color: #007bff;
+}
 
 nav a:hover{
   text-decoration: underline;
   color: #0056b3;
+}
 
 #header a:hover{
   text-decoration: underline;
